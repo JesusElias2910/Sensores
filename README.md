@@ -56,5 +56,9 @@ Son usadas con regularidad en el sector de iluminación para el apagado y encend
 
 ![Aplicación de fotoresistencia](https://i0.wp.com/www.ingmecafenix.com/wp-content/uploads/2017/05/Conexion-LDR.webp?resize=683%2C384&ssl=1)
 
+### Ejemplo de fotoresitencia con pico W (Circuito en wokwi)
+![Diagrama y código]()
+![Simulación]()
+
 ### Conclusión
 La tecnología avanza y con ello la gama de componentes electrónicos, es importante que como profesionistas en el ámbito tecnológico se obtenga un amplio conocimiento de los diferentes sensores/componentes de los cuales se puede disponer para realizar diferentes circuitos/proyectos que ayuden con la automatización de procesos. La fotoresistencias es un sensor que se basa en la detección de luz o no, con lo cual realizará diferentes acciones, según lo programado con anterioridad.
