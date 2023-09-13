@@ -57,7 +57,7 @@ Son usadas con regularidad en el sector de iluminación para el apagado y encend
 ![Aplicación de fotoresistencia](https://i0.wp.com/www.ingmecafenix.com/wp-content/uploads/2017/05/Conexion-LDR.webp?resize=683%2C384&ssl=1)
 
 ### Ejemplo de fotoresitencia con pico W (Circuito en wokwi)
-![Diagrama y código](Imagenes/Código y diagrama.png)
+![Diagrama y código](Imagenes/Código.png)
 ![Simulación](Imagenes/Simulación.png)
 
 ### Conclusión
