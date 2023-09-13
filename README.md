@@ -32,8 +32,8 @@ Su función se basa en su composición que es el sulfuro de cadmio. Este compone
 ![Partes de una fotoresistencia](https://electronicaiemblog.files.wordpress.com/2018/06/partes.jpg)
 
 #### Tipos de fotoresistencias
-* **Sulfuro de cadmio: **Las que se elaboran a partir de este material son sensibles a todas las radiaciones de tipo luminoso que son visibles.
-*  **Sulfuro de plomo: **Al utilizar este material, la fotoresistencia es sensible únicamente a las radiaciones infrarrojas.
+* **Sulfuro de cadmio:** Las que se elaboran a partir de este material son sensibles a todas las radiaciones de tipo luminoso que son visibles.
+*  **Sulfuro de plomo:** Al utilizar este material, la fotoresistencia es sensible únicamente a las radiaciones infrarrojas.
 
 ![Tipos de fotoresistencias](https://panamahitek.com/wp-content/uploads/2017/12/innocuous_photoresistor_vs_common_photoresistor.jpg)
 
